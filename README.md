@@ -4,3 +4,5 @@
 - [x] hellogit
 - [ ] learnyounode
 - [ ] javascripting
+- [ ] how-to-npm
+- [ ] how-to-markdown
